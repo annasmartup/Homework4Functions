@@ -1,0 +1,14 @@
+C:\программирование\c#\homework4\Task2\bin\Debug\net7.0\Task2.exe
+C:\программирование\c#\homework4\Task2\bin\Debug\net7.0\Task2.deps.json
+C:\программирование\c#\homework4\Task2\bin\Debug\net7.0\Task2.runtimeconfig.json
+C:\программирование\c#\homework4\Task2\bin\Debug\net7.0\Task2.dll
+C:\программирование\c#\homework4\Task2\bin\Debug\net7.0\Task2.pdb
+C:\программирование\c#\homework4\Task2\obj\Debug\net7.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\программирование\c#\homework4\Task2\obj\Debug\net7.0\Task2.AssemblyInfoInputs.cache
+C:\программирование\c#\homework4\Task2\obj\Debug\net7.0\Task2.AssemblyInfo.cs
+C:\программирование\c#\homework4\Task2\obj\Debug\net7.0\Task2.csproj.CoreCompileInputs.cache
+C:\программирование\c#\homework4\Task2\obj\Debug\net7.0\Task2.dll
+C:\программирование\c#\homework4\Task2\obj\Debug\net7.0\refint\Task2.dll
+C:\программирование\c#\homework4\Task2\obj\Debug\net7.0\Task2.pdb
+C:\программирование\c#\homework4\Task2\obj\Debug\net7.0\Task2.genruntimeconfig.cache
+C:\программирование\c#\homework4\Task2\obj\Debug\net7.0\ref\Task2.dll
